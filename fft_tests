@@ -1,0 +1,5 @@
+./fft 0 > fft0.out
+./fft 1 > fft1.out
+./fft 2 > fft2.out
+./fft 3 > fft3.out
+./fft 4 > fft4.out

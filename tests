@@ -1,0 +1,17 @@
+./test.exe /cygdrive/c/users/rharris/Music/test1.flac 0 c4 > test1_0.out
+./test.exe /cygdrive/c/users/rharris/Music/test1.flac 1 c4 > test1_1.out
+./test.exe /cygdrive/c/users/rharris/Music/test1.flac 2 c4 > test1_2.out
+./test.exe /cygdrive/c/users/rharris/Music/test1.flac 3 c4 > test1_3.out
+./test.exe /cygdrive/c/users/rharris/Music/test1.flac 4 c4 > test1_3.out
+
+./test.exe /cygdrive/c/users/rharris/Music/test2.flac 0 d4 > test2_0.out
+./test.exe /cygdrive/c/users/rharris/Music/test2.flac 1 d4 > test2_1.out
+./test.exe /cygdrive/c/users/rharris/Music/test2.flac 2 d4 > test2_2.out
+./test.exe /cygdrive/c/users/rharris/Music/test2.flac 3 d4 > test2_3.out
+./test.exe /cygdrive/c/users/rharris/Music/test2.flac 4 d4 > test2_3.out
+
+./test.exe /cygdrive/c/users/rharris/Music/test3.flac 0 e4 > test3_0.out
+./test.exe /cygdrive/c/users/rharris/Music/test3.flac 1 e4 > test3_1.out
+./test.exe /cygdrive/c/users/rharris/Music/test3.flac 2 e4 > test3_2.out
+./test.exe /cygdrive/c/users/rharris/Music/test3.flac 3 e4 > test3_3.out
+./test.exe /cygdrive/c/users/rharris/Music/test3.flac 4 e4 > test3_3.out
